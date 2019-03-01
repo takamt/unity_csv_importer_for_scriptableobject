@@ -1,0 +1,3 @@
+## 使い方
+
+- ScriptableObjectを生成したいマスタテーブルごとにScriptableObjectCreatorBaseクラスを継承したXXXMasterCreator.csを作成
